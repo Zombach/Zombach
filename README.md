@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stanislav Kozlov(ZLoo)</h1>
 
-- 🔭 I’m currently working at **[idp.zyfra](https://idp.zyfra.com)**
+- 🔭 I’m currently working at **[ligastavok](https://www.ligastavok.ru)**
 - 📫 How to reach me **Kozlov.s.v.1992@gmail.com**
 - 👯 I’m always open to collaborations and contributing especially for cloud-native projects.
 
